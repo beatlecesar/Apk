@@ -1,5 +1,5 @@
 este es una prueba
 
-juan vargas esta aprendiendo git
+juan vargas esta aprendiendo git y github
 
 y tambien git hub
